@@ -8,6 +8,9 @@ build using the following
 
 
 # Releases
+0.0.3
+- the database will be created but no tables or schema
+-- this will be the responsibility of the running application.
 0.0.2
 - initialize docker postgres instance
 - initialize the database tables
