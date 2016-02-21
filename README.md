@@ -13,3 +13,4 @@ build using the following
 0.0.2
 - initialize docker postgres instance
 - initialize the database tables
+
