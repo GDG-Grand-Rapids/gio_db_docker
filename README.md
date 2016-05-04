@@ -6,7 +6,6 @@ run using the following:
 build using the following
 * docker build -t gio-db .
 
-
 # Releases
 0.0.3
 - the database will be created but no tables or schema
@@ -14,3 +13,4 @@ build using the following
 0.0.2
 - initialize docker postgres instance
 - initialize the database tables
+
